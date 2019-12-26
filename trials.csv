@@ -1,0 +1,3 @@
+tree_depth,nu,cascade_depth,feature_pool_size,num_test_splits,oversampling_amount,oversampling_translation_jitter,inference_speed,training_time,training_error,testing_error,model_size
+2,0.25,10,250,20,20,0.0,0.0004225730895996094,654.355947971344,7.932414947812829,8.676745809434811,3162215
+6,0.25,8,750,20,20,0.1,0.0009457349777221679,1176.1299030780792,2.9695360725134163,7.50789511853352,40759187
