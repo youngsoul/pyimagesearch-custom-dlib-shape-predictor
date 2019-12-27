@@ -2,6 +2,8 @@
 # python parse_xml.py --input ibug_300W_large_face_landmark_dataset/labels_ibug_300W_train.xml --output ibug_300W_large_face_landmark_dataset/labels_ibug_300W_train_eyes.xml
 # python parse_xml.py --input ibug_300W_large_face_landmark_dataset/labels_ibug_300W_test.xml --output ibug_300W_large_face_landmark_dataset/labels_ibug_300W_test_eyes.xml
 
+# todo review
+
 # import the necessary packages
 import argparse
 import re
